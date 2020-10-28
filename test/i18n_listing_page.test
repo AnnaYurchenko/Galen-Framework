@@ -2,11 +2,11 @@
         | locale |
         | en     |
         | de     |
-       # | fi     |
+        | fi     |
         | fr     |
        # | hk     |
         | it     |
-        #| nl     |
+        | nl     |
         #| tr     |
 
 @@ parameterized using languages

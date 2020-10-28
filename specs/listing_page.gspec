@@ -4,6 +4,7 @@
     nearby-filter   xpath         //*[@data-qa="filter-button-nearby"]
     listing_header  xpath         //div[@data-qa='listing-header']
     find_button     xpath         //*[@data-qa="button-search-find-header"]
+    top_rated-filter xpath        //*[@data-qa="filter-button-top-rated"]
 
 ========================================
 # Validation on desktop resolutions
@@ -21,4 +22,8 @@
 
 = Filter section =
     nearby-filter:
-       text is "${i18n.nearby.filter}"
+      text is "${i18n.nearby.filter}"
+
+    top_rated-filter:
+      text is "${i18n.top_rated.filter}"
+
