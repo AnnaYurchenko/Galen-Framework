@@ -7,7 +7,7 @@
        # | hk     |
         | it     |
         | nl     |
-        #| tr     |
+        | tr     |
 
 @@ parameterized using languages
 Listing page test for ${locale} language
